@@ -36,7 +36,7 @@ This task was to plot a Thematic map of the neighborhoods broken down by private
 - With the help of neighbourhood `MULTIPOLYGON` data and corresponding room count, I have plotted the thematic maps for both entire homes/apts and private rooms.
 
 ### Results
--This is Thematic map showing the number of entire homes/apts availabe in the corresponding neighborhoods.
+- This is Thematic map showing the number of entire homes/apts availabe in the corresponding neighborhoods.
 ![](https://github.com/makam2901/Airbnb-Analysis/blob/main/Thematic_Entire_home.png)
 - This is Thematic map showing the number of private rooms availabe in the corresponding neighborhoods.
 ![](https://github.com/makam2901/Airbnb-Analysis/blob/main/Thematic_Private_Room.png)
